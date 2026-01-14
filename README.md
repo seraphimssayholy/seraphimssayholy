@@ -20,9 +20,14 @@ $\color{#2F3E5C}{\textsf{and polite.}}$
 $\color{#2F3E5C}{\textsf{C+H is ok.}}$
 $\color{#2F3E5C}{\textsf{Explanation is everything if}}$
 $\color{#2F3E5C}{\textsf{you feel upset or}}$
-$\color{#2F3E5C}{\textsf{uncomfortable by me,because}}$
+$\color{#2F3E5C}{\textsf{uncomfortable by me, because}}$
 $\color{#2F3E5C}{\textsf{i'll appreciated and respect}}$
 $\color{#2F3E5C}{\textsf{your boundaries for that}}$
 </p>
   
 >$\color{#2F3E5C}{\textsf{⊹₊⟡⋆ 𝗗𝗡𝗜 :}}$
+<p align="center">
+  $\color{#2F3E5C}{\textsf{Swear to ragebait,}}$
+  $\color{#2F3E5C}{\textsf{ Rude or fake sweet}}$
+$\color{#2F3E5C}{\textsf{ (dislike this, go away), }}$
+$\color{#2F3E5C}{\textsf{ Rascist.}}$
