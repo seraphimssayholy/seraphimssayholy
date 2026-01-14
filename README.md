@@ -6,5 +6,6 @@
 <img src="Tak berjudul301_20260114181618.png" width="35"/>
 
 <p align="center">
-  $\color{#2F3E5C}\{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
+  $\color{#BFE6FF
+}\LARGE{\{BASIC}}$
 </p>
