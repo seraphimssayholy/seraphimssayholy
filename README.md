@@ -16,11 +16,11 @@
 <p align="center">
   $\color{#2F3E5C}{\textsf{I'd love to interact}}$
   $\color{#2F3E5C}{\textsf{but make it safe}}$
-$\color{#2F3E5C}{\textsf{and polite,}}$
+$\color{#2F3E5C}{\textsf{and polite.}}$
 $\color{#2F3E5C}{\textsf{C+H is ok.}}$
 $\color{#2F3E5C}{\textsf{Explanation is everything if}}$
 $\color{#2F3E5C}{\textsf{you feel upset or}}$
-$\color{#2F3E5C}{\textsf{uncomfortable by me,that}}$
+$\color{#2F3E5C}{\textsf{uncomfortable by me,because}}$
 $\color{#2F3E5C}{\textsf{i'll appreciated and respect}}$
 $\color{#2F3E5C}{\textsf{your boundaries for that}}$
 </p>
