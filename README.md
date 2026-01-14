@@ -7,8 +7,6 @@
 
 <p align="center">
   $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
-<p align="center">
   $\color{#2F3E5C}{\textsf{𝓦ҽʅƈσɱҽ}}$
-<p align="center">
   $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
 </p>
