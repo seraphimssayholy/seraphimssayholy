@@ -7,10 +7,8 @@
 
 <p align="center">
   $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
-</p>
 <p align="center">
   $\color{#2F3E5C}{\textsf{𝓦ҽʅƈσɱҽ}}$
-</p>
 <p align="center">
   $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
 </p>
