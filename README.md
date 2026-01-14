@@ -49,4 +49,8 @@ width="35"/>
 width="35"/>
 </p>
 
-listening to: [snowman - Sia](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq?si=Whdfm4g7Q5aJ_dPbDXIx6Q)
+<p align="center">
+  $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
+  $\color{#2F3E5C}{\textsf{𝓣𝘩ҽ 𝓔ɳԃ}}$
+  $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
+</p>
