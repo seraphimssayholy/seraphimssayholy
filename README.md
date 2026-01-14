@@ -9,5 +9,5 @@
   $\color{#2F3E5C}{\textsf{"˚₊‧꒰ა ☆ ໒꒱ ‧₊˚"}}$
 </p>
 <p align="center">
-  $\color{#2F3E5C}{\textsf{"𝙬𝙚𝙡𝙘𝙤𝙢𝙚"}}$
+  $\color{#2F3E5C}{\textsf{𝓦ҽʅƈσɱҽ}}$
 </p>
