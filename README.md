@@ -53,4 +53,5 @@ width="35"/>
   $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
   $\color{#2F3E5C}{\textsf{𝓣𝘩ҽ 𝓔ɳԃ}}$
   $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
+  <img src="Tak berjudul278_20251018111719.png" width="35"/>
 </p>
