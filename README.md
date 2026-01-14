@@ -11,4 +11,8 @@
   $\color{#2F3E5C}{\textsf{˚₊‧꒰ა ☆ ໒꒱ ‧₊˚}}$
 </p>
 
->$\color{#2F3E5C}{\textsf{⊹₊⟡⋆ 𝗙𝗬𝗜}}$
+>$\color{#2F3E5C}{\textsf{⊹₊⟡⋆ 𝗙𝗬𝗜 :}}$
+
+$\color{#2F3E5C}{\textsf{I'd love to interact but make it safe and polite, C+H is ok. Explanation is everything if you feel upset or uncomfortable by me, i'll appreciated and respect your boundaries for that.}}$
+
+>$\color{#2F3E5C}{\textsf{⊹₊⟡⋆ 𝗗𝗡𝗜 :}}$
