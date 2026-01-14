@@ -36,8 +36,3 @@ $\color{#2F3E5C}{\textsf{copycat}}$
 >$\color{#2F3E5C}{\textsf{⊹₊⟡⋆ 𝗠𝗬 𝗖𝗢𝗠𝗙𝗦 :}}$
 
 <p align="center">
-<img src="Tak berjudul301_20260114183208.png" width="35"/>
-<img src="Tak berjudul301_20260114183106.png" width="35"/>
-<img src="Tak berjudul301_20260114183132.png" width="35"/>
-<img src=Tak berjudul301_20260114183409.png" width="35"/>
-</p>
