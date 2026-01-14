@@ -13,6 +13,16 @@
 
 >$\color{#2F3E5C}{\textsf{⊹₊⟡⋆ 𝗙𝗬𝗜 :}}$
 
-$\color{#2F3E5C}{\textsf{I'd love to interact but make it safe and polite, C+H is ok. Explanation is everything if you feel upset or uncomfortable by me, i'll appreciated and respect your boundaries for that.}}$
-
+<p align="center">
+  $\color{#2F3E5C}{\textsf{I'd love to interact}}$
+  $\color{#2F3E5C}{\textsf{but make it safe}}$
+$\color{#2F3E5C}{\textsf{and polite,}}$
+$\color{#2F3E5C}{\textsf{C+H is ok.}}$
+$\color{#2F3E5C}{\textsf{Explanation is everything if}}$
+$\color{#2F3E5C}{\textsf{you feel upset or}}$
+$\color{#2F3E5C}{\textsf{uncomfortable by me,that}}$
+$\color{#2F3E5C}{\textsf{i'll appreciated and respect}}$
+$\color{#2F3E5C}{\textsf{your boundaries for that}}$
+</p>
+  
 >$\color{#2F3E5C}{\textsf{⊹₊⟡⋆ 𝗗𝗡𝗜 :}}$
