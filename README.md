@@ -41,7 +41,6 @@ $\color{#2F3E5C}{\textsf{copycat}}$
   <img src="Tak berjudul301_20260114212332.png" width="35"/>
 <img src="Tak berjudul301_20260114212306.png" width="35"/>
   <img src="Tak berjudul301_20260114212319.png" width="35"/>
-  <img src="Tak berjudul301_20260114212951.png" width="35"/>
   <img src="Tak berjudul301_20260114213036.png" 
 width="35"/>
 <img src="Tak berjudul301_20260114213141.png" 
