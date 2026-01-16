@@ -22,7 +22,7 @@ $\color{#2F3E5C}{\textsf{and polite.}}$
 $\color{#2F3E5C}{\textsf{C+H is ok.}}$
 $\color{#2F3E5C}{\textsf{Explanation is everything if}}$
 $\color{#2F3E5C}{\textsf{you feel upset or}}$
-$\color{#2F3E5C}{\textsf{uncomfortable by me, because}}$
+$\color{#2F3E5C}{\textsf{uncomfortable with me, because}}$
 $\color{#2F3E5C}{\textsf{i'll appreciated and respect}}$
 $\color{#2F3E5C}{\textsf{your boundaries for that}}$
 </p>
