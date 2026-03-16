@@ -1,4 +1,4 @@
 <img src="Upturn vintage lace.png" width="100%">
-color{#805F4B}{\textsf{ 𐔌 . ⋮  𝕭𝖎𝖊𝖓𝖛𝖚𝖊𝖓𝖊, 𝖒𝖔𝖓 𝖆𝖒𝖎.ᐟ ֹ ₊ ꒱}}$
+$\color{#7497C5}{\textsf{ 𐔌 . ⋮ 説明 .ᐟ ֹ ₊ ꒱}}$
 <img src="France vintage banner.png" width="100%">
 <img src="Downturn vintage lace.png" width="100%">
